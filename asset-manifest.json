@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-github-search-ts/static/css/main.15a16b90.css",
-    "main.js": "/react-github-search-ts/static/js/main.e08a0afb.js",
+    "main.js": "/react-github-search-ts/static/js/main.58d4551b.js",
     "static/media/icon-sun.svg": "/react-github-search-ts/static/media/icon-sun.c3177fa453380a8147df081ec10c2789.svg",
     "static/media/icon-website.svg": "/react-github-search-ts/static/media/icon-website.cf4904e442232792159e0e1bd2d500aa.svg",
     "static/media/icon-company.svg": "/react-github-search-ts/static/media/icon-company.6331bb91a37d52462978487317f0c6e9.svg",
@@ -11,10 +11,10 @@
     "static/media/icon-search.svg": "/react-github-search-ts/static/media/icon-search.0cc0c98424cc75d5e1dfbb9e3abb6785.svg",
     "static/media/icon-location.svg": "/react-github-search-ts/static/media/icon-location.f6d18983ab4be8b3314d51c208fba4d4.svg",
     "main.15a16b90.css.map": "/react-github-search-ts/static/css/main.15a16b90.css.map",
-    "main.e08a0afb.js.map": "/react-github-search-ts/static/js/main.e08a0afb.js.map"
+    "main.58d4551b.js.map": "/react-github-search-ts/static/js/main.58d4551b.js.map"
   },
   "entrypoints": [
     "static/css/main.15a16b90.css",
-    "static/js/main.e08a0afb.js"
+    "static/js/main.58d4551b.js"
   ]
 }
